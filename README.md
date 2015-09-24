@@ -13,7 +13,7 @@ During this workshop, you will learn:
 
 ## Activities
 
-Here are the activities you will complete in this workshop. If you get stuck or have any questions, please refer to the documents linked here for more information.
+Here are the activities you will complete in this workshop. If you get stuck or have any questions, please refer to the documents linked here for more information:
 
 1. Comment on [this issue](https://github.com/githubteacher/CodeDay-2015/issues/1) with one thing you are hoping to learn in todays training.
 2. Create an issue to add your bio to the class site. [Instructions](https://github.com/githubteacher/CodeDay-2015/blob/master/instructions/create-issue.md)
